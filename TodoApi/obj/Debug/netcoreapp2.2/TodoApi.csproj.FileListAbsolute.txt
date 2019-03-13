@@ -12,3 +12,17 @@ c:\Users\ADMIN\desktop\webApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyIn
 c:\Users\ADMIN\desktop\webApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
 c:\Users\ADMIN\desktop\webApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
 c:\Users\ADMIN\desktop\webApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\trabajo\aspnet\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
